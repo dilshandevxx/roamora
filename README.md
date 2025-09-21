@@ -23,4 +23,4 @@ This repository contains the source code for a travel website project developed 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dilshandevxx/Roamora.git
+git clone https://github.com/dilshandevxx/roamora.git
